@@ -9,3 +9,5 @@ commit 4 to rebase
 commit 5 to rebase
 
 commit 6 to rebase
+
+commit 7
