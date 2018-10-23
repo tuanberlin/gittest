@@ -4,3 +4,8 @@ commit 1
 commit 2
 commit 3 from dev
 commit 3 from hotfix1
+
+commit 4 to rebase
+commit 5 to rebase
+
+commit 6 to rebase
