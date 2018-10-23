@@ -3,6 +3,7 @@ hotfix1 edited : this is hotfix1.1
 commit 1
 commit 2
 commit 3 from dev
+<<<<<<< HEAD
 commit 3 from hotfix1
 
 commit 4 to rebase
@@ -12,3 +13,7 @@ commit 6 to rebase
 
 commit 7
 commit 8
+=======
+
+change from dev
+>>>>>>> master
